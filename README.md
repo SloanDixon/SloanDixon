@@ -1,4 +1,10 @@
-### Hi there 👋
+### Heyo!
+### My name is Sloan Dixon, and I'm an amateur computer science student hoping to learn more about coding!
+### I'm currently working on a prediction and analysis formula.
+### I'm decent at Python and C++
+### You can contact me at (720)-751-1733 (text only) or ssdixon3@gmail.com
+### Feel free to reach out for anything at all!
+### Have a good one!
 
 <!--
 **SloanDixon/SloanDixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
